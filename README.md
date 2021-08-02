@@ -1,5 +1,5 @@
 # threekingdoms
-เพิ่มจากฉบับ C.H. Brewitt Taylor และฉบับเจ้าพระยาพระคลัง (หน) โดย ไม้ เมืองนนท์
+เพิ่มจากฉบับ C.H. Brewitt Taylor และฉบับเจ้าพระยาพระคลัง (หน) โดย. ป.
 
 Domains under heaven, after a long period of division, tends to unite; after a long period of union, tends to divide. 
 เดิมแผ่นดินเมืองจีนทั้งปวงนั้น เป็นสุขมาช้านานแล้วก็เป็นศึก ครั้นศึกสงบแล้วก็เป็นสุข 
@@ -11,7 +11,7 @@ This has been so since antiquity.
 มีพระมหากษัตริย์ทรงพระนามพระเจ้าจิวบูอ๋อง แลพระวงศ์ได้เสวยราชย์ต่อ ๆ ลงมาเปนหลายพระองค์ ได้ความสุขมาถึงเจ็ดร้อยปี 
 
 When the rule of the Zhou Dynasty weakened, 
-ครั้นราชวงศ์จิวเสื่อมถอยลง
+ครั้นราชวงศ์จิวอ่อนแอลง
 
 seven contending kingdoms sprang up, 
 จึงมีผู้ตั้งแข็งเมืองถึงเจ็ดหัวเมือง
