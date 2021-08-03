@@ -1,8 +1,9 @@
 # threekingdoms
-เพิ่มจากฉบับ C.H. Brewitt Taylor และฉบับเจ้าพระยาพระคลัง (หน) โดย. ป.
+โดย C.H. Brewitt Taylor เจ้าพระยาพระคลัง (หน) และผู้เขียน
 
-Domains under heaven, after a long period of division, tends to unite; after a long period of union, tends to divide. 
-เดิมแผ่นดินเมืองจีนทั้งปวงนั้น เป็นสุขมาช้านานแล้วก็เป็นศึก ครั้นศึกสงบแล้วก็เป็นสุข 
+Domains under heaven, after a long period of division, tends to unite; after a long period of union, tends to divide (Taylor)
+เดิมแผ่นดินเมืองจีนทั้งปวงนั้น เป็นสุขมาช้านานแล้วก็เป็นศึก ครั้นศึกสงบแล้วก็เป็นสุข (จพค.)
+
 
 This has been so since antiquity. 
 เป็นดังนี้มาช้านาน
